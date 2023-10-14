@@ -19,7 +19,7 @@ ERROR: Could not find a version that satisfies the requirement python-apt==2.4.0
  !     Push rejected, failed to compile Python app.
  !     Push failed
 <br>
- This will be taking up with tutor suport.
+ This will be taking up with tutor suport. Therefore the app is not working as intended since the build did not work.
 
 <br>
 
