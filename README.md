@@ -4,6 +4,12 @@ Plantastic is a plant blog where you can read about different sorts of plants an
 ## Project Development
 This project is still in early stages of development and is therefore still very much based on the Code Institute walkthrough project **I Think Therefore I Blog** for setting up data bases and installing libraries needed for starting up the project.
 
+## Early scetches
+These are rouch layout scetches.
+![Image of home page](media/images-readme/rough-scetch-home.PNG)
+
+![Image of blog post](media/images-readme/blog-post.PNG)
+
 ## Bugs
 ### Deployment to Heroku
 When deploying the project to the heroku app this error message was recieved:
